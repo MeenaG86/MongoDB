@@ -7,7 +7,8 @@ MongoDB
 MongoDB Shell (mongosh)
 
 GitHub Link:https://meenag86.github.io/MongoDB/Library1DB%20(4).pdf
-GitHub Link:
+
+GitHub Link:https://meenag86.github.io/MongoDB/MongoDB%20Basics%20and%20CRUD%20Operations.pdf
 
 
 Learning Outcomes
